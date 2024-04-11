@@ -1,6 +1,6 @@
-# ProjetoContato
+# projetoContato
 <br>
-Programa de C++ que permita a digitação (e posterior exibição), dos dados relativos à classe "Contato" abaixo descrita:
+Foi desenvolvido em C++, utilizando getters, setters e construtores um programa que permita a digitação (e posterior exibição), dos dados relativos à classe "Contato" abaixo exibida:
 <br><br>
 <div align="center">
   <pre>
@@ -27,7 +27,3 @@ Programa de C++ que permita a digitação (e posterior exibição), dos dados re
   </pre>
 </div>
 <br/>
-
-## Desenvolvido por:
-- Beatriz Bastos Borges
-- Miguel Luizatto Alves
